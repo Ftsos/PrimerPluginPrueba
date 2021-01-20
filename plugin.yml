@@ -1,0 +1,9 @@
+main: ftsos.primerpluginprueba.MiPlugin
+version: 0.0.6
+name: PrimerPluginPrueba
+
+commands:
+  renameteam:
+    description: Renombra el equipo al que perteneces
+  warp:
+   description: el clasico comando warp te permite viajar a distintos lobbys
